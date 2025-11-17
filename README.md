@@ -92,4 +92,3 @@ L'API est accessible via `http://localhost:8080/api/`.
 ## 9. Auteur & Licence
 
 * **Auteur :** Mariem Mhadhbii ([MariemMhadhbii](https://github.com/MariemMhadhbii))
-* **Licence :** Ce projet est sous licence [MIT/Apache 2.0/etc.]. (Ajoutez le nom de la licence choisie)
